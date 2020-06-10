@@ -1,5 +1,6 @@
 # Tony continue Arthurs pipeline for mapping ribo-profiling reads
 #### Run R script to intersect reads (sam file) and predicted.ORF (repre.valid.ORF.gtf file), then generate a table with read count on codon frame 1,2,3
+https://github.com/Arthurhe/Riboprofiling_pipeline_Arthur
 
 
 ### Set up enivronment
