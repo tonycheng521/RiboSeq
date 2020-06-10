@@ -24,7 +24,7 @@ Rscript /PATH/TO/Intersect_mergeORF.R -f ${Read.sam} -g ${ORF.gtf} -o ${Output}
 ```
 
 ${Read.sam} = the path to your read.sam file  
-${ORF.gtf} = the path to your repre.valid.gtf file. If run on multiple samples, can use a concatenated gtf from multiple sample. The script will remove duplicates 
+${ORF.gtf} = the path to your repre.valid.gtf file. If run on multiple samples, can use a concatenated gtf from multiple sample. The script will remove duplicates. <br>
 ${Output} = the path to your output directory and filename 
 
   
